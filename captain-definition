@@ -1,7 +1,6 @@
 {
   "schemaVersion": 2,
   "dockerfilePath": "./dockerfiles/Dockerfile",
-  "templateId": "python3-8",
   "dockerCompose": {
     "services": {
       "titiler": {
